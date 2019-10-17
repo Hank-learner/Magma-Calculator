@@ -1,6 +1,12 @@
+# Magma
 # Scientific Calculator
 ## Simple css and js
 
 
 > ### Project details
-> Indentation tab:4 spaces
+> * Code Indentation-tab:4 spaces
+> * Responsive design
+
+
+----------------
+Licensed under [GPL LICENSE](LICENSE)
